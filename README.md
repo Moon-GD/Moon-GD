@@ -10,4 +10,6 @@
 
 2021.04.08 ~ : Start MySql (ing)
 
+2021.05.10 ~ : End MySql, Start django
+
 Update : 2021.04.12
