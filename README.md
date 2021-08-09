@@ -2,29 +2,29 @@
 
 <i>2020.07.27</i> : discharged from military service ! & Start studying coding !
 
-2020.09.07 ~ 2020.12.24 : Intern in HQ of TP ( Teachers Pension ), processing data and managing data quality
+<i>2020.09.07</i> ~ 2020.12.24 : Intern in HQ of TP ( Teachers Pension ), processing data and managing data quality
 
-~ 2021.03.02 : C-language, Java, Android(need to study more about Android)
+<i>~ 2021.03.02</i> : C-language, Java, Android(need to study more about Android)
 
 ---------
 ## Year 2021
 
-2021.03.03 ~ : Start Python and Data-structure by C-language
+<i>2021.03.03 ~</i> : Start Python and Data-structure by C-language
 
-2021.03.11 ~ : Start HTML in "LikeLion"
+<i>2021.03.11 ~</i> : Start HTML in "LikeLion"
 
-2021.03.15 ~ : Start CSS in "LikeLion"
+<i>2021.03.15 ~</i> : Start CSS in "LikeLion"
 
-2021.04.08 ~ : Start MySql
+<i>2021.04.08 ~</i> : Start MySql
 
-2021.05.10 ~ : End MySql, Start django
+<i>2021.05.10 ~</i> : End MySql, Start django
 
-2021.07.05 ~ 2021.08.13 : A researcher in NIMS ( National Institute for Mathematical Sciences ), 
+<i>2021.07.05 ~ 2021.08.13</i> : A researcher in NIMS ( National Institute for Mathematical Sciences ), 
                           doing Mathematical modeling with CT-images and studying Machine-Learning with Scikit-Learn
 
-2021.08.02 ~ 2021.08.13 : Hackathon in LikeLion with Html, CSS
+<i>2021.08.02 ~ 2021.08.13</i> : Hackathon in LikeLion with Html, CSS
 
-2021.08.05 ~ 2021.09.17 : take part in Web + AI project
+<i>2021.08.05 ~ 2021.09.17</i> : take part in Web + AI project
 
 ---------
 
