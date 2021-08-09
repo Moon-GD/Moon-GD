@@ -12,7 +12,7 @@
 
 2021.05.10 ~ : End MySql, Start django
 
-2021.07.05 ~ 2021.08.13 : A researcher in NIMS(National Institute for Mathematical Sciences), 
+2021.07.05 ~ 2021.08.13 : A researcher in NIMS ( National Institute for Mathematical Sciences ), 
                           doing Mathematical modeling with CT-images and studying Machine-Learning with Scikit-Learn
 
 2021.08.02 ~ 2021.08.13 : Hackathon in LikeLion with Html, CSS
