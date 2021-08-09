@@ -4,6 +4,8 @@
 
 ~ 2021.03.02 : C-language, Java, Android(need to study more about Android)
 
+---------
+
 2021.03.03 ~ : Start Python and Data-structure by C-language
 
 2021.03.11 ~ : Start HTML in "LikeLion"
