@@ -12,4 +12,6 @@
 
 2021.05.10 ~ : End MySql, Start django
 
+2021.08.02 ~ 2021.08.13 : Hackathon in LikeLion with Html, CSS
+
 Update : 2021.04.12
