@@ -1,4 +1,4 @@
-Year 2020
+## Year 2020
 
 2020.07.27 : discharged from military service ! & Start studying coding !
 
@@ -7,7 +7,7 @@ Year 2020
 ~ 2021.03.02 : C-language, Java, Android(need to study more about Android)
 
 ---------
-Year 2021
+## Year 2021
 
 2021.03.03 ~ : Start Python and Data-structure by C-language
 
