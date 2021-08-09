@@ -2,7 +2,7 @@ Year 2020
 
 2020.07.27 : discharged from military service ! & Start studying coding !
 
-2020.09.07 ~ 2020.12.24 : Intern in HQ of TP, Teachers Pension, processing data and managing data quality
+2020.09.07 ~ 2020.12.24 : Intern in HQ of TP ( Teachers Pension ), processing data and managing data quality
 
 ~ 2021.03.02 : C-language, Java, Android(need to study more about Android)
 
