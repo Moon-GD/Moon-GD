@@ -19,6 +19,6 @@
 
 2021.08.02 ~ 2021.08.13 : Hackathon in LikeLion with Html, CSS
 
-2021.08.05 ~ 2021.09.17 : Web + AI project
+2021.08.05 ~ 2021.09.17 : take part in Web + AI project
 
 Update : 2021.08.09
