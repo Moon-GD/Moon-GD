@@ -1,6 +1,6 @@
 ## Year 2020
 
-<i>2020.07.27</style></i> : discharged from military service ! & Start studying coding !
+<i>2020.07.27</i> : discharged from military service ! & Start studying coding !
 
 <i>2020.09.07</i> ~ 2020.12.24 : Intern in HQ of TP ( Teachers Pension ), processing data and managing data quality
 
