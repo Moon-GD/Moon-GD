@@ -24,7 +24,9 @@
 
 <i>2021.08.02 ~ 2021.08.13</i> : Hackathon in LikeLion with Html, CSS
 
-<i>2021.08.05 ~ 2021.09.17</i> : take part in Web + AI project
+<i>2021.10.11 ~ ></i> : start solving Baek-Joon algorithms step by step
+ 2021.10.11 : step1 ~ step3 completed
+ 2021.10.12 : step4 completed
 
 ---------
 
