@@ -33,4 +33,4 @@
 need to study : Git
 
 ---------
-Update : 2021.08.09
+Update : 2021.10.12
