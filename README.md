@@ -31,7 +31,7 @@
 
 <i>2021.10.15 ~ 2021.11.06</i> : Study git and git_hub
 
-<i>2021.11.08 ~ </i> : Study Django and bootstrap
+<i>2021.11.08 ~ </i> : Study Django and bootstrap about in general
 ---------
 
 Update : 2021.11.08
