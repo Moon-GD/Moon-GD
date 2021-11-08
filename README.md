@@ -27,6 +27,7 @@
 <i>2021.10.11 ~ ></i> : start solving Baek-Joon algorithms step by step <br>
  - 2021.10.11 : step1 ~ step3 completed <br>
  - 2021.10.12 : step4 completed
+ - 2021.11.08 : step5 ~ step8 completed
 
 ---------
 
