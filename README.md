@@ -25,13 +25,13 @@
 <i>2021.08.02 ~ 2021.08.13</i> : Hackathon in LikeLion with Html, CSS
 
 <i>2021.10.11 ~ ></i> : start solving Baek-Joon algorithms step by step <br>
- - 2021.10.11 : step1 ~ step3 completed <br>
- - 2021.10.12 : step4 completed
- - 2021.11.08 : step5 ~ step8 completed
+ - 2021.10.11 : step1 ~ step3 <br>
+ - 2021.10.12 : step4
+ - 2021.11.08 : step5 ~ step8
 
+<i>2021.10.15 ~ 2021.11.06</i> : Study git and git_hub
+
+<i>2021.11.08 ~ </i> : Study Django again
 ---------
 
-need to study : Git
-
----------
-Update : 2021.10.12
+Update : 2021.11.08
