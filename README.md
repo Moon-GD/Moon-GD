@@ -21,7 +21,7 @@
                           doing Mathematical modeling with CT-images and studying Machine-Learning with Scikit-Learn
 
 <i>2021.06.17 ~ 2021.07.03</i> : Ideathon in LikeLion 
-### Top 10 out of 150 teams ###
+#### Top 10 out of 150 teams ####
 
 <i>2021.08.02 ~ 2021.08.13</i> : Hackathon in LikeLion
 
