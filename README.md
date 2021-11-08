@@ -11,13 +11,13 @@
 
 <i>2021.03.03 ~</i> : Start Python and Data-structure by C-language
 
-<i>2021.03.11 ~</i> : Start HTML in "LikeLion"
+<i>2021.03.11 ~</i> : Learn the basics of HTML in "LikeLion"
 
-<i>2021.03.15 ~</i> : Start CSS in "LikeLion"
+<i>2021.03.15 ~</i> : Learn the basics of CSS in "LikeLion"
 
 <i>2021.04.08 ~</i> : Start MySql
 
-<i>2021.05.10 ~</i> : End MySql, Start django
+<i>2021.05.10 ~</i> : End MySql
 
 <i>2021.07.05 ~ 2021.08.13</i> : A researcher in NIMS ( National Institute for Mathematical Sciences ), 
                           doing Mathematical modeling with CT-images and studying Machine-Learning with Scikit-Learn
@@ -31,7 +31,7 @@
 
 <i>2021.10.15 ~ 2021.11.06</i> : Study git and git_hub
 
-<i>2021.11.08 ~ </i> : Study Django again
+<i>2021.11.08 ~ </i> : Study Django and bootstrap
 ---------
 
 Update : 2021.11.08
