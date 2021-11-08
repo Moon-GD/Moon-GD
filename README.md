@@ -29,7 +29,7 @@
  - 2021.10.12 : step4
  - 2021.11.08 : step5 ~ step8
 
-<i>2021.10.15 ~ 2021.11.06</i> : Study git and git_hub
+<i>2021.10.15 ~ 2021.11.06</i> : Study git and git_hub at an intermediate level (ex : cooperation, version control, open source project )
 
 <i>2021.11.08 ~ </i> : Learn about Django and bootstrap in general
 
