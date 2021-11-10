@@ -28,6 +28,7 @@
  - 2021.10.11 : step1 ~ step3 <br>
  - 2021.10.12 : step4
  - 2021.11.08 : step5 ~ step8
+ - 2021.11.11 : step9 ~ step10
 
 <i>2021.10.15 ~ 2021.11.06</i> : Study git and git_hub at an intermediate level (cooperation, version control, open source project )
 
