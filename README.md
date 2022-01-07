@@ -35,6 +35,16 @@
 
 <i>2021.11.08 ~ </i> : Learn about Django and bootstrap in general
 
+<i>2021.11.29 ~ 2021.12.12</i> : Clone-coding Naver's order page
+
+<i>2021.12.13 ~ </i> : Start studying JavaScript (Concept, Grammar and Applying)
+                      -> plan (01/24 ~) : conduct a JavaScript project to implement 20 functions
+                      
+---------
+## Year 2021             
+
+<i>2022.01.03 ~ </i> : study for competency development in 10th Likelion
+
 ---------
 
-Update : 2021.11.08
+Update : 2022.01.07
