@@ -35,7 +35,7 @@
 
 <i>2021.11.08 ~ </i> : Learn about Django and bootstrap in general
 
-<i>2021.11.29 ~ 2021.12.12</i> : Clone-coding Naver's order page
+<i>2021.11.29 ~ 2021.12.12</i> : Clone-coding Naver's order page (complete the front-end part !! )
 
 <i>2021.12.13 ~ </i> : Start studying JavaScript (Concept, Grammar and Applying)
                       -> plan (01/24 ~) : conduct a JavaScript project to implement 20 functions
