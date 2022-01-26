@@ -9,14 +9,6 @@
 ---------
 ## Year 2021
 
-<i>2021.03.03 ~</i> : Start studying Python and Data-structure by C-language
-
-<i>2021.03.11 ~</i> : Learn the basics of HTML in "LikeLion"
-
-<i>2021.03.15 ~ 2021.06</i> : Learn the basics of CSS in "LikeLion"
-
-<i>2021.04.08 ~ 2021.05.10</i> : Study the basics of MySql
-
 <i>2021.07.05 ~ 2021.08.13</i> : A researcher in NIMS ( National Institute for Mathematical Sciences ), 
                           doing Mathematical modeling with CT-images and studying Machine-Learning with Scikit-Learn
 
