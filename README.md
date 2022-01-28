@@ -39,7 +39,7 @@
 
 <i>2022.01.07 ~ 2022.01.21 </i> : Ideaton in Likelion 10th executive -> Selected as the best 9 !!
 
--> Create Website by February 17th
+--> Create Website by February 17th
 
 
 ---------
