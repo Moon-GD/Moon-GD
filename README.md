@@ -31,12 +31,18 @@
 
 <i>2021.12.13 ~ </i> : Start studying JavaScript (Concept, Grammar and Applying)
                       -> plan (01/24 ~) : conduct a JavaScript project to implement 20 functions
+                      -> 01.23 : Numbers Baseball game completed
                       
 ---------
 ## Year 2022            
 
 <i>2022.01.03 ~ </i> : study for competency development in 10th Likelion
 
+<i>2022.01.07 ~ 2022.01.21 </i> : Ideaton in Likelion 10th executive -> Selected as the best 9 !!
+
+-> Create Website by February 17th
+
+
 ---------
 
-Update : 2022.01.07
+Update : 2022.01.28
