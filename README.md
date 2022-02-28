@@ -41,7 +41,9 @@
 
 --> Create Website by February 17th
 
+<i>2022.02.26 ~ 2022.02.28 </i> : Clone coding of Sister's Resume <br>
+url : https://i-am-msb-not-usb.netlify.app/
 
 ---------
 
-Update : 2022.01.28
+Update : 2022.02.28
