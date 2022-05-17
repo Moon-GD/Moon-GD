@@ -52,7 +52,7 @@ url : https://starbucks-by-moon-gd.netlify.app/
 
 <i>2022.04.01 ~ </i> : Start studying Node-js( Very Interesting :> )
 
-<i>2022.04.30 ~ 2022.05.26 (Due)</i> : Outsourcing Doctor's CRS Dashboard (Using HTML/CSS, JS, Java, Spring)
+<i>2022.04.30 ~ 2022.05.26 (Due)</i> : Outsourcing Doctor's CRS Dashboard (HTML/CSS, JS, Java, Spring)
 
 ---------
 
