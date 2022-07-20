@@ -54,6 +54,18 @@ url : https://starbucks-by-moon-gd.netlify.app/
 
 <i>2022.04.30 ~ 2022.05.26 (Due)</i> : Outsourcing Doctor's CRS Dashboard (HTML/CSS, JS, Java, Spring)
 
+<i>2022.05.09 ~ 2022.07.02 </i> : Nexon MOD Executive - Maplestory Developer <br>
+--> study & TIL : url : https://www.notion.so/1-15c30cd8361941e986582672cf502ab3
+--> selected as Best TIL in NEXON X LikeLion
+
+<i>2022.07.04 ~ 2022.07.16 </i> : Samsung SDS algorithm special lecture completion (C)
+
+<i>2022.07.04 ~ 2022.09.03 </i> : Nexon MOD Game Creator - position : Project Manger & Developer (Luascript)
+
+<i>2022.07.15 ~ </i> : hobby : Solving easy algorithm problems as a hobby (C & Python)
+url (Bronze 5) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%205
+url (Bronze 4) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%204
+
 ---------
 
-Update : 2022.04.02
+Update : 2022.07.20
