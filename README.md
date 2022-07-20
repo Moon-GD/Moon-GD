@@ -52,7 +52,7 @@ url : https://starbucks-by-moon-gd.netlify.app/
 
 <i>2022.04.01 ~ </i> : Start studying Node-js( Very Interesting :> )
 
-<i>2022.04.30 ~ 2022.05.26 (Due)</i> : Outsourcing Doctor's CRS Dashboard (HTML/CSS, JS, Java, Spring)
+<i>2022.04.30 ~ 2022.05.26 </i> : Outsourcing Doctor's CRS Dashboard (HTML/CSS, JS, Java, Spring)
 
 <i>2022.05.09 ~ 2022.07.02 </i> : Nexon MOD Executive - Maplestory Developer <br>
 --> study & TIL : url : https://www.notion.so/1-15c30cd8361941e986582672cf502ab3
