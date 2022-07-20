@@ -62,9 +62,9 @@ url : https://starbucks-by-moon-gd.netlify.app/
 
 <i>2022.07.04 ~ 2022.09.03 </i> : Nexon MOD Game Creator - position : Project Manger & Developer (Luascript)
 
-<i>2022.07.15 ~ </i> : hobby : Solving easy algorithm problems as a hobby (C & Python)
-url (Bronze 5) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%205
-url (Bronze 4) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%204
+<i>2022.07.15 ~ </i> : hobby : Solving easy algorithm problems as a hobby (C & Python) <Br>
+url (Bronze 5) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%205 <Br>
+url (Bronze 4) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%204 <Br>
 
 ---------
 
