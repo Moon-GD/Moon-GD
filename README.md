@@ -66,8 +66,12 @@ url : https://starbucks-by-moon-gd.netlify.app/
 --> url (Bronze 5) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%205 <Br>
 --> url (Bronze 4) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%204 <Br>
 --> url (Bronze 3) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%203 <Br>
-
+--> url (Bronze 2) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%202 <Br>
+--> url (Bronze 1) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%201 <Br>
+--> url (Silver 5) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%205 <br>
+  
 <i>2022.07.27 ~ </i> : Participate in sensor data portal web development in KNU ISSLab <Br>
+  
 ---------
 
 Update : 2022.07.27
