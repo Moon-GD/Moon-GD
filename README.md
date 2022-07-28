@@ -69,7 +69,7 @@ url : https://starbucks-by-moon-gd.netlify.app/
 --> url (Bronze 2) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%202 <Br>
 --> url (Bronze 1) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%201 <Br>
 --> url (Silver 5) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%205 <br>
---> url (Silver 5) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%204 <br>
+--> url (Silver 4) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%204 <br>
   
 <i>2022.07.27 ~ </i> : Participate in sensor data portal web development in KNU ISSLab <Br>
 React TIL Link : https://moon-gd.tistory.com/category/Web-Dev%20FrontEnd/React <Br>
