@@ -55,7 +55,7 @@ url : https://starbucks-by-moon-gd.netlify.app/
 <i>2022.04.30 ~ 2022.05.26 </i> : Outsourcing Doctor's CRS Dashboard (HTML/CSS, JS, Java, Spring)
 
 <i>2022.05.09 ~ 2022.07.02 </i> : Nexon MOD Executive - Maplestory Developer <br>
---> study & TIL : url : https://www.notion.so/1-15c30cd8361941e986582672cf502ab3 <br>
+--> study & TIL : url : https://www.notion.so/NEXON-MOD-STUDY-LIST-1dbf33ebb61444ae8b8a2f113ebbf5ff <br>
 --> selected as Best TIL in NEXON X LikeLion
 
 <i>2022.07.04 ~ 2022.07.16 </i> : Samsung SDS algorithm special lecture completion (C)
