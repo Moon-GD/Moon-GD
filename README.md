@@ -68,6 +68,8 @@ url : https://starbucks-by-moon-gd.netlify.app/
 <i>2022.07.04 ~ 2022.07.16 </i> : Samsung SDS algorithm special lecture completion (C)
 
 <i>2022.07.04 ~ 2022.09.03 </i> : Nexon MOD Game Creator - position : Project Manger & Developer (Luascript)
+![썸네일](https://user-images.githubusercontent.com/74173976/186326057-a978259f-4698-4c9a-acff-ca2c43265c06.png)
+
 
 <i>2022.07.15 ~ </i> : hobby : Solving Baek-Joon algorithm problems as a hobby (C & Python) <Br>
 --> url (Bronze 5) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%205 <Br>
