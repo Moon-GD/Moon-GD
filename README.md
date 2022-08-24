@@ -35,6 +35,13 @@
                       
 ---------
 ## Year 2022            
+<i>2021.11 ~ (Doing) </i> : KNU LikeLion Representative <br>
+url : https://www.instagram.com/likelion_knu <br>
+>> 운영진 사이드 프로젝트 본선 진출 <br>
+>> Microsoft (너무 좋았던) 토크 콘서트.. <br>
+>> NEXON MOD 운영진 Best TIL <br>
+>> 전국 아이디어톤 2등, 4등 <br>
+>> 대구 경북 연합 해커톤 1등, 1등 <br>
 
 <i>2022.01.03 ~ 2022.02.28 </i> : executive study in 10th Likelion <br>
 url : https://github.com/Moon-GD/Likelion10th-executive
