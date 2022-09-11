@@ -41,7 +41,9 @@ url : https://www.instagram.com/likelion_knu <br><br>
 >> Microsoft (너무 좋았던) 토크 콘서트.. <br>
 >> NEXON MOD 운영진 Best TIL <br>
 >> 전국 아이디어톤 2등, 4등 <br>
->> 대구 경북 연합 해커톤 1등, 1등 <br><br>
+>> 대구 경북 연합 해커톤 1등 2 <br>
+>> Nexon Supporters Hackathon 1등, 2등 <br>
+
 너무나도 감사한 우리 운영진, 아기사자들... 모두 모두 흥해라 😁😁 <br>
 
 <i>2022.01.03 ~ 2022.02.28 </i> : executive study in 10th Likelion <br>
