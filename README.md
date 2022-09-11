@@ -70,10 +70,10 @@ url : https://starbucks-by-moon-gd.netlify.app/
 
 <i>2022.07.04 ~ 2022.09.03 </i> : Nexon MOD Game Creator - position : Project Manger & Developer (Luascript) <br>
 url : https://www.youtube.com/watch?v=OSw5JecRhhw <br>
-![썸네일](https://user-images.githubusercontent.com/74173976/186326057-a978259f-4698-4c9a-acff-ca2c43265c06.png)
+<img src="https://user-images.githubusercontent.com/74173976/186326057-a978259f-4698-4c9a-acff-ca2c43265c06.png" width="320" height="180">
 
-Nexon Supporters Hackathon 최우수상 수상!!
-![nexon](https://user-images.githubusercontent.com/74173976/189515261-aec6d09a-39a6-4182-9985-820dae9bae20.jpg)
+Nexon Supporters Hackathon 최우수상 수상!! <br>
+<img src="https://user-images.githubusercontent.com/74173976/189515261-aec6d09a-39a6-4182-9985-820dae9bae20.jpg" width="360" height="480">
 
 
 
