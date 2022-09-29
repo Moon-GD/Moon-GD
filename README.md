@@ -90,6 +90,7 @@ Nexon Supporters Hackathon 최우수상 수상!! <br>
 --> url (Silver 3) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%203 <br>
 --> url (Silver 2) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%202 <br>
 --> url (Silver 1) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%201 <br>
+--> url (Gold 5) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EA%B3%A8%EB%93%9C%205 <br>
   
 <br>
 <i>2022.07.27 ~ 2022.08.31</i> : Participate in sensor data portal web development in KNU ISSLab <Br>
