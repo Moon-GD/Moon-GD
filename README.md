@@ -84,12 +84,12 @@ Nexon Supporters Hackathon 최우수상 수상!! <br>
 --> url (Bronze 4) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%204 <Br>
 --> url (Bronze 3) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%203 <Br>
 --> url (Bronze 2) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%202 <Br>
---> url (Bronze 1) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%201 <Br>
+--> url (Bronze 1) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%201 <Br><Br>
 --> url (Silver 5) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%205 <br>
 --> url (Silver 4) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%204 <br>
 --> url (Silver 3) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%203 <br>
 --> url (Silver 2) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%202 <br>
---> url (Silver 1) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%201 <br>
+--> url (Silver 1) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%201 <br><br>
 --> url (Gold 5) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EA%B3%A8%EB%93%9C%205 <br>
   
 <br>
