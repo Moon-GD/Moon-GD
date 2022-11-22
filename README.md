@@ -96,9 +96,9 @@ Nexon Supporters Hackathon 최우수상 수상!! <br>
   
 <br>
 <i>2022.07.27 ~ 2022.08.31</i> : Participate in sensor data portal web development in KNU ISSLab <Br>
-React TIL Link : https://moon-gd.tistory.com/category/Web-Dev%20FrontEnd/React <Br>
+React TIL Link : https://moon-gd.tistory.com/category/Web-Dev%20FrontEnd/React <Br><Br>
 
-<i>2022.11.21 ~ </i> : Java Spring Study
+<i>2022.11.21 ~ </i> : Java Spring Study <Br>
 Spring TIL LINK : https://moon-gd.tistory.com/category/Web-Dev/Spring <br>
 
 ---------
