@@ -1,39 +1,37 @@
-## Year 2020
+## Github Stats
+![Moon-GD's GitHub stats](https://github-readme-stats.vercel.app/api?username=moon-gd&show_icons=true&theme=radical) <br>
 
-<i>2020.07.27</i> : discharged from military service ! & Determine studying coding !
+<br>
 
-<i>2020.09.07</i> ~ 2020.12.24 : Intern in HQ of TP ( Teachers Pension ), processing data and managing data quality
+## Solved.ac
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=king4mun)](https://solved.ac/king4mun)
 
-<i>~ 2021.03.02</i> : C-language, Java, Android(need to study more about Android)
+<br>
 
----------
-## Year 2021
+## Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moon-gd&layout=compact">
 
-<i>2021.07.05 ~ 2021.08.13</i> : A researcher in NIMS ( National Institute for Mathematical Sciences ), 
-                          doing Mathematical modeling with CT-images and studying Machine-Learning with Scikit-Learn
+<br>
 
-<i>2021.06.17 ~ 2021.07.03</i> : Ideathon in LikeLion -> Top 10 out of 150 teams
+## ❤ Main Skills
 
-<i>2021.08.02 ~ 2021.08.13</i> : Hackathon in LikeLion
+<img src="https://img.shields.io/badge/html5-e44d26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-0d73b7?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-f7df1e?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0562a6?style=flat&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Lua-00007c?style=flat&logo=lua&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3974A5?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005e86?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/react-5ed3f3?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005e86?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7010ef?style=flat&logo=bootstrap&logoColor=white"/>
 
-<i>2021.10.11 ~ ></i> : start solving Baek-Joon algorithms step by step <br>
- - 2021.10.11 : step1 ~ step3 <br>
- - 2021.10.12 : step4
- - 2021.11.08 : step5 ~ step8
- - 2021.11.11 : step9 ~ step10
- - 2021.11.13 : step11 (holding)
+<br>
 
-<i>2021.10.15 ~ 2021.11.06</i> : Study git and git_hub at an intermediate level ( cooperation, version control, open source project )
+## Sub Skills
+<img src="https://img.shields.io/badge/Java-A8B9CC?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-5cb230?style=flat&logo=spring&logoColor=white"/>
 
-<i>2021.11.08 ~ </i> : Learn about Django and bootstrap in general
+<br>
 
-<i>2021.11.29 ~ 2021.12.12</i> : Clone-coding Naver's order page (complete the front-end part !! &#x1F601;)
+## Communication
+<a href="https://moon-gd.tistory.com/"><img src="https://img.shields.io/badge/Tistory-e34f1f?style=flat&logo=Blogger&logoColor=white"/></a> <a href="mailto:king4mun@gmail.com"><img src="https://img.shields.io/badge/mail-e34133?style=flat&logo=gmail&logoColor=white"/></a>
 
-<i>2021.12.13 ~ </i> : Start studying JavaScript (Concept, Grammar and Applying) <br>
-(Winter Vacation Goal : Use JS as well as HTML/CSS) <br>
---> 01.23 : Project : Numbers Baseball game is completed
-                      
----------
+<br>
+
+
+
 ## Year 2022            
 <i>2021.11 ~ (Doing) </i> : KNU LikeLion 10th Representative <br>
 url : https://www.instagram.com/likelion_knu <br><br>
@@ -101,6 +99,44 @@ React TIL Link : https://moon-gd.tistory.com/category/Web-Dev%20FrontEnd/React <
 <i>2022.11.21 ~ </i> : Java Spring Study <Br>
 Spring TIL LINK : https://moon-gd.tistory.com/category/Web-Dev/Spring <br>
 
+---------  
+
+## Year 2021
+
+<i>2021.07.05 ~ 2021.08.13</i> : A researcher in NIMS ( National Institute for Mathematical Sciences ), 
+                          doing Mathematical modeling with CT-images and studying Machine-Learning with Scikit-Learn
+
+<i>2021.06.17 ~ 2021.07.03</i> : Ideathon in LikeLion -> Top 10 out of 150 teams
+
+<i>2021.08.02 ~ 2021.08.13</i> : Hackathon in LikeLion
+
+<i>2021.10.11 ~ ></i> : start solving Baek-Joon algorithms step by step <br>
+ - 2021.10.11 : step1 ~ step3 <br>
+ - 2021.10.12 : step4
+ - 2021.11.08 : step5 ~ step8
+ - 2021.11.11 : step9 ~ step10
+ - 2021.11.13 : step11 (holding)
+
+<i>2021.10.15 ~ 2021.11.06</i> : Study git and git_hub at an intermediate level ( cooperation, version control, open source project )
+
+<i>2021.11.08 ~ </i> : Learn about Django and bootstrap in general
+
+<i>2021.11.29 ~ 2021.12.12</i> : Clone-coding Naver's order page (complete the front-end part !! &#x1F601;)
+
+<i>2021.12.13 ~ </i> : Start studying JavaScript (Concept, Grammar and Applying) <br>
+(Winter Vacation Goal : Use JS as well as HTML/CSS) <br>
+--> 01.23 : Project : Numbers Baseball game is completed
+  
+---------
+  
+## Year 2020
+
+<i>2020.07.27</i> : discharged from military service ! & Determine studying coding !
+
+<i>2020.09.07</i> ~ 2020.12.24 : Intern in HQ of TP ( Teachers Pension ), processing data and managing data quality
+
+<i>~ 2021.03.02</i> : C-language, Java, Android(need to study more about Android)
+  
 ---------
 
 Update : 2022.09.11
