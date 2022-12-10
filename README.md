@@ -28,7 +28,7 @@ ETC. : <img src="https://img.shields.io/badge/Lua-00007c?style=flat&logo=lua&log
 <div markdown="1">       
 
 ## Year 2022            
-<i>2021.11 ~ (Doing) </i> : KNU LikeLion 10th Representative <br>
+<i>2021.11 ~ 2022.12 </i> : KNU LikeLion 10th Representative <br>
 url : https://www.instagram.com/likelion_knu <br><br>
 >> 운영진 사이드 프로젝트 본선 진출 <br>
 >> Microsoft (너무 좋았던) 토크 콘서트.. <br>
