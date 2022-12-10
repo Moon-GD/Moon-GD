@@ -1,36 +1,36 @@
+<div align="left">
+
+## 안녕하세요, 개발🐕 아닌 개발자 문경덕입니다👨‍🔧
+FE, BE를 모두 아우를 수 있는 능력있는 개발자가 되고자 매일 공부하고 있습니다. 😁 <br>
+개발자라는 목표를 바라보며 함께 성장하고 싶습니다.
+  
+<br>
+  
 ## Github Stats
-![Moon-GD's GitHub stats](https://github-readme-stats.vercel.app/api?username=moon-gd&show_icons=true&theme=radical) <br>
-
-<br>
-
-## Solved.ac
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=king4mun)](https://solved.ac/king4mun)
-
-<br>
-
-## Used Languages
+![Moon-gd's GitHub stats](https://github-readme-stats.vercel.app/api?username=moon-gd&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moon-gd&layout=compact">
 
 <br>
 
-## ❤ Main Skills
+## 🔨 Teck Stack
 
-<img src="https://img.shields.io/badge/html5-e44d26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-0d73b7?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-f7df1e?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0562a6?style=flat&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Lua-00007c?style=flat&logo=lua&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3974A5?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005e86?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/react-5ed3f3?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005e86?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7010ef?style=flat&logo=bootstrap&logoColor=white"/>
-
-<br>
-
-## Sub Skills
-<img src="https://img.shields.io/badge/Java-A8B9CC?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-5cb230?style=flat&logo=spring&logoColor=white"/>
+Language : <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3974A5?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-A8B9CC?style=flat&logo=openjdk&logoColor=white"/> <br>
+Front-End : <img src="https://img.shields.io/badge/html5-e44d26?style=flat&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS-0d73b7?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-f7df1e?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0562a6?style=flat&logo=jquery&logoColor=white"/>  <img src="https://img.shields.io/badge/react-5ed3f3?style=flat&logo=react&logoColor=white"/>  <img src="https://img.shields.io/badge/Bootstrap-7010ef?style=flat&logo=bootstrap&logoColor=white"/> <br>
+Back-End : <img src="https://img.shields.io/badge/Spring-5cb230?style=flat&logo=spring&logoColor=white"/>  <img src="https://img.shields.io/badge/django-0c4931?style=flat&logo=django&logoColor=white"/> <br>
+ETC. : <img src="https://img.shields.io/badge/Lua-00007c?style=flat&logo=lua&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-005e86?style=flat&logo=mysql&logoColor=white"/> <br>
 
 <br>
 
-## Communication
+## Contact
 <a href="https://moon-gd.tistory.com/"><img src="https://img.shields.io/badge/Tistory-e34f1f?style=flat&logo=Blogger&logoColor=white"/></a> <a href="mailto:king4mun@gmail.com"><img src="https://img.shields.io/badge/mail-e34133?style=flat&logo=gmail&logoColor=white"/></a>
 
 <br>
 
-
+## Experience
+  
+<details>
+<summary>자세히 보기</summary>
+<div markdown="1">       
 
 ## Year 2022            
 <i>2021.11 ~ (Doing) </i> : KNU LikeLion 10th Representative <br>
@@ -137,7 +137,12 @@ Spring TIL LINK : https://moon-gd.tistory.com/category/Web-Dev/Spring <br>
 
 <i>~ 2021.03.02</i> : C-language, Java, Android(need to study more about Android)
   
+</div>
+</details>
+  
 ---------
 
-Update : 2022.09.11
-정리하기 귀찮.. 언제 이쁘게 꾸미지
+Update : 2022.12.10
+언제 이쁘게 꾸미지...
+  
+</div>
