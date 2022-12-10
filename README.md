@@ -6,13 +6,13 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
   
 <br>
   
-## Github Stats
+## 📈 Github Stats 📈
 ![Moon-gd's GitHub stats](https://github-readme-stats.vercel.app/api?username=moon-gd&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moon-gd&layout=compact">
 
 <br>
 
-## 🔨 Teck Stack
+## 🔨 Teck Stack 🔨
 
 Language : <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3974A5?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-A8B9CC?style=flat&logo=openjdk&logoColor=white"/> <br>
 Front-End : <img src="https://img.shields.io/badge/html5-e44d26?style=flat&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS-0d73b7?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-f7df1e?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0562a6?style=flat&logo=jquery&logoColor=white"/>  <img src="https://img.shields.io/badge/react-5ed3f3?style=flat&logo=react&logoColor=white"/>  <img src="https://img.shields.io/badge/Bootstrap-7010ef?style=flat&logo=bootstrap&logoColor=white"/> <br>
@@ -21,7 +21,7 @@ ETC. : <img src="https://img.shields.io/badge/Lua-00007c?style=flat&logo=lua&log
 
 <br>
 
-## Experience
+## 🧐 Experience 🧐
   
 <details>
 <summary>자세히 보기</summary>
@@ -137,7 +137,7 @@ Spring TIL LINK : https://moon-gd.tistory.com/category/Web-Dev/Spring <br>
   
 <br>
   
-## Contact
+## ✉️ Contact ✉️
 <a href="https://moon-gd.tistory.com/"><img src="https://img.shields.io/badge/Tistory-e34f1f?style=flat&logo=Blogger&logoColor=white"/></a> <a href="mailto:king4mun@gmail.com"><img src="https://img.shields.io/badge/mail-e34133?style=flat&logo=gmail&logoColor=white"/></a>
  
 <br>
