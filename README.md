@@ -21,11 +21,6 @@ ETC. : <img src="https://img.shields.io/badge/Lua-00007c?style=flat&logo=lua&log
 
 <br>
 
-## Contact
-<a href="https://moon-gd.tistory.com/"><img src="https://img.shields.io/badge/Tistory-e34f1f?style=flat&logo=Blogger&logoColor=white"/></a> <a href="mailto:king4mun@gmail.com"><img src="https://img.shields.io/badge/mail-e34133?style=flat&logo=gmail&logoColor=white"/></a>
-
-<br>
-
 ## Experience
   
 <details>
@@ -140,6 +135,13 @@ Spring TIL LINK : https://moon-gd.tistory.com/category/Web-Dev/Spring <br>
 </div>
 </details>
   
+<br>
+  
+## Contact
+<a href="https://moon-gd.tistory.com/"><img src="https://img.shields.io/badge/Tistory-e34f1f?style=flat&logo=Blogger&logoColor=white"/></a> <a href="mailto:king4mun@gmail.com"><img src="https://img.shields.io/badge/mail-e34133?style=flat&logo=gmail&logoColor=white"/></a>
+ 
+<br>
+
 ---------
 
 Update : 2022.12.10
