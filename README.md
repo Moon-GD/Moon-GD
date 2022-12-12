@@ -8,8 +8,9 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
   
 ## 📈 Github Stats 📈
 ![Moon-gd's GitHub stats](https://github-readme-stats.vercel.app/api?username=moon-gd&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moon-gd&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moon-gd&layout=compact"> <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=king4mun)](https://solved.ac/king4mun/)
+  
 <br>
 
 ## 🔨 Teck Stack 🔨
