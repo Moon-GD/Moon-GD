@@ -7,10 +7,10 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 <br>
 
 ## ❗ 매일 실천 루틴 ❗
-##### ① 다양한 언어 문화를 이해할 수 있어야 해! 개발자 문서 15분 리딩
-##### ② C, Python 2개 언어로 <a href="https://www.acmicpc.net/">백준</a> 문제 풀이 or JS로 <a href="https://app.codility.com/programmers/">codility</a> 문제 풀이
-##### ③ 나도 저 사람처럼 될꺼야! 성공한 사람들의 영상 10분짜리 시청
-##### ④ 개발자도 책은 읽어야지! 독서 30분 이상
+#### ① 다양한 언어 문화를 이해할 수 있어야 해! 개발자 문서 15분 리딩
+#### ② C, Python 2개 언어로 <a href="https://www.acmicpc.net/">백준</a> 문제 풀이 or JS로 <a href="https://app.codility.com/programmers/">codility</a> 문제 풀이
+#### ③ 나도 저 사람처럼 될꺼야! 성공한 사람들의 영상 10분짜리 시청
+#### ④ 개발자도 책은 읽어야지! 독서 30분 이상
 
 <br>
   
