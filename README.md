@@ -35,6 +35,8 @@ ETC. : <img src="https://img.shields.io/badge/Lua-00007c?style=flat&logo=lua&log
 <details>
 <summary>자세히 보기</summary>
 <div markdown="1">       
+## Year 2023
+<i>2023.01 ~ </i> : Hyundai Softer Bootcamp <br>
 
 ## Year 2022            
 <i>2021.11 ~ 2022.12 </i> : KNU LikeLion 10th Representative <br>
