@@ -40,7 +40,7 @@ ETC. : <img src="https://img.shields.io/badge/Lua-00007c?style=flat&logo=lua&log
 <i>2023.01 ~ </i> : Hyundai Softer Bootcamp 
   <ul>
     <li>1주차 : <a href="https://github.com/Moon-GD/fe-console-todo">FE-Console-Todo</a></li>
-    <li>2주차 : <a href="https://github.com/Moon-GD/fe-web-todo-Moon">FE-Console-Todo</a></li>
+    <li>2주차 : <a href="https://github.com/Moon-GD/fe-web-todo-Moon">FE-WEB-Todo</a></li>
   </ul>
   
   
