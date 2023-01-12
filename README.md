@@ -37,7 +37,15 @@ ETC. : <img src="https://img.shields.io/badge/Lua-00007c?style=flat&logo=lua&log
 <div markdown="1">       
 
 ## Year 2023
-<i>2023.01 ~ </i> : Hyundai Softer Bootcamp <br>
+<i>2023.01 ~ </i> : Hyundai Softer Bootcamp 
+  <ul>
+    <li>1주차 : <a href="https://github.com/Moon-GD/fe-console-todo">FE-Console-Todo</a></li>
+    <li>2주차 : <a href="https://github.com/Moon-GD/fe-web-todo-Moon">FE-Console-Todo</a></li>
+  </ul>
+  
+  
+<br>
+
 
 ## Year 2022            
 <i>2021.11 ~ 2022.12 </i> : KNU LikeLion 10th Representative <br>
