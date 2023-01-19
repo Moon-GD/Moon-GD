@@ -164,8 +164,7 @@ Spring TIL LINK : https://moon-gd.tistory.com/category/Web-Dev/Spring <br>
 
 ---------
 
-Update : 2022.01.15
-언제 이쁘게 꾸미지...
+Update : 2022.01.19
 사람들 코딩 넘 잘해...
   
 </div>
