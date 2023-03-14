@@ -11,7 +11,7 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 #### ② C, Python 2개 언어로 <a href="https://www.acmicpc.net/">백준</a> 문제 풀이 or JS로 <a href="https://app.codility.com/programmers/">codility</a> 문제 풀이
 #### ③ 나도 저 사람처럼 될꺼야! <a href="https://www.youtube.com/@turningpointkorea">성공한 사람들의 영상</a> 1개 시청
 #### ④ 개발자도 책은 읽어야지! 독서 30분 이상
-#### ⑤ 뇌 근육 이완도 중요해! 매일 운동 30분 이상, 주 1~2회 2시간 축구/
+#### ⑤ 뇌 근육 이완도 중요해! 매일 운동 30분 이상, 주 1~2회 2시간 축구/풋살
 
 <br>
   
