@@ -39,6 +39,23 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 <br>
 
 ## 🧐 Experience 🧐
+
+## Year 2022
+|Period|Types|Content|Reference Link| ETC |
+|:-|:-|:-|:-|:-|
+| 2021.11 ~ 2022.12 | 대외 활동 | 멋쟁이 사자처럼 10기 대표 | <a href="https://www.instagram.com/likelion_knu">Instagram Link </a> | ① 운영진 사이드 프로젝트 본선 진출 <br> ② Microsoft (너무 좋았던) 토크 콘서트.. <br> ③ NEXON MOD 운영진 Best TIL <br> ④ 전국 아이디어톤 2등, 4등 <br> ⑤ 대구 경북 연합 해커톤 1등 2팀 <br> ⑥ Nexon Supporters Hackathon 1등, 2등 <br> <h5>너무나도 감사한 우리 운영진, 아기사자들... 모두 모두 흥해라 😁😁</h5> |
+| 2022.01.03 ~ 2022.02.28 | Team Study | 멋쟁이 사자처럼 10기 운영진 스터디 | <a href="https://github.com/Moon-GD/Likelion10th-executive">GitHub</a> |  |
+| 2022.01.07 ~ 2022.02.17 | Team Project | 멋쟁이 사자처럼 10기 운영진 아이디어톤 & 해커톤 | <a href="https://likelion-knu.netlify.app">Product Link</a> | 아이디어톤 전국 9등 수상 |
+| 2022.02.26 ~ 2022.02.28 | Personal Project |  동생 이력서 클론 코딩 | <a href="https://i-am-msb-not-usb.netlify.app/">Product Link</a> <br> <a href="https://github.com/Moon-GD/sister-resume">GitHub Link</a> | 3일 내로 완성해야 했던 프로젝트 |
+| 2022.03.13 ~ 2022.03.31 | Personal Project | 스타벅스 메인화면 클론 코딩 | <a href="https://starbucks-by-moon-gd.netlify.app/">Product Link</a> |  |
+| 2022.04.01 | Personal Study | Nodejs 공부 시작 |  | 너무 재밌음!! |
+| 2022.04.30 ~ 2022.05.26 | Team Project | 경북대학교 CRS DashBoard 웹 프로토타입 개발자 | <a href="https://github.com/Moon-GD/crs-dashboard-prototype">GitHub Link</a> |  |
+| 2022.05.09 ~ 2022.07.02 | 대외활동 | Nexon MOD 운영진 및 개발자 | <a href="https://www.notion.so/NEXON-MOD-STUDY-LIST-1dbf33ebb61444ae8b8a2f113ebbf5ff">study & TIL Link</a> | Nexon X LikeLion BEST TIL 선정 |
+| 2022.07.04 ~ 2022.07.16 | 대외활동 | 삼성 SDS 알고리즘 하계 C언어 특강 수료 |  |  |
+| 2022.07.04 ~ 2022.09.03 | 대외활동 | Nexon MOD Game Creator <br> position - Project Manager & Developer  | <a href="https://www.youtube.com/watch?v=OSw5JecRhhw">Product Youtube Link</a> <br>  <img src="https://user-images.githubusercontent.com/74173976/186326057-a978259f-4698-4c9a-acff-ca2c43265c06.png"> | <h5>Nexon Supporters Hackathon 최우수상 수상!!</h5> |
+  | 2022.07.15 | Personal Study | 백준 알고리즘 공부 (C & Python) | <a href="https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EA%B3%A8%EB%93%9C%203">Gold 3 Blog Link</a><br> <a href="https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EA%B3%A8%EB%93%9C%204">Gold 4 Blog Link</a><br> <a href="https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EA%B3%A8%EB%93%9C%205">Gold 5 Blog Link</a><br> <a href="https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%201">Silver 1 Blog Link</a><br> <a href="https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%202">Silver 2 Blog Link</a><br> <a href="https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%203">Silver 3 Blog Link</a><br> <a href="https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%204">Silver 4 Blog Link</a><br> <a href="https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%205">Silver 5 Blog Link</a><br> <a href="https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%201">Bronze 1 Blog Link</a><br> <a href="https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%202">Bronze 2 Blog Link</a><br> <a href="https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%203">Bronze 3 Blog Link</a><br> <a href="https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%204">Bronze 4 Blog Link</a><br> <a href="https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%205">Bronze 5 Blog Link</a><br> <a href=""></a><br> |  |
+| 2022.07.27 ~ 2022.08.31 | Team Project | Participate in sensor data portal web development in KNU ISSLab | <a href="https://moon-gd.tistory.com/category/Web-Dev%20FrontEnd/React">React TIL Link</a> |  |
+| 2022.11.21 | Personal Study | Java Spring Study | <a href="https://moon-gd.tistory.com/category/Web-Dev/Spring">Spring TIL Link</a> |  |
   
 <details>
 <summary>자세히 보기</summary>
@@ -55,62 +72,7 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 
 <i>2022.03.01 ~ 2022.04.07 </i> : Team Project - <a href="https://github.com/zangsu/cs-test-service#cs-test-service"> Mini CS Test Service <br></a>
 
-## Year 2022
-  
-|Period|Types|Content|Reference Link| ETC |
-|:-|:-|:-|:-|:-|
-| 2021.11 ~ 2022.12 | 대외 활동 | 멋쟁이 사자처럼 10기 대표 | <a href="https://www.instagram.com/likelion_knu">Instagram Link </a> | ① 운영진 사이드 프로젝트 본선 진출 <br> ② Microsoft (너무 좋았던) 토크 콘서트.. <br> ③ NEXON MOD 운영진 Best TIL <br> ④ 전국 아이디어톤 2등, 4등 <br> ⑤ 대구 경북 연합 해커톤 1등 2팀 <br> ⑥ Nexon Supporters Hackathon 1등, 2등 <br> <h5>너무나도 감사한 우리 운영진, 아기사자들... 모두 모두 흥해라 😁😁</h5> |
-| 2022.01.03 ~ 2022.02.28 | Team Study | 멋쟁이 사자처럼 10기 운영진 스터디 | <a href="https://github.com/Moon-GD/Likelion10th-executive">GitHub</a> |  |
-| 2022.01.07 ~ 2022.02.17 | Team Project | 멋쟁이 사자처럼 10기 운영진 아이디어톤 & 해커톤 | <a href="https://likelion-knu.netlify.app">Product Link</a> | 아이디어톤 전국 9등 수상 |
-| 2022.02.26 ~ 2022.02.28 | Personal Project |  동생 이력서 클론 코딩 | <a href="https://i-am-msb-not-usb.netlify.app/">Product Link</a> <br> <a href="https://github.com/Moon-GD/sister-resume">GitHub Link</a> | 3일 내로 완성해야 했던 프로젝트 |
-|  |  |  |  |  |
 
-<i> </i> : Personal Project - <a href="https://i-am-msb-not-usb.netlify.app/">Clone coding of Sister's Resume </a><br>
-
-<i>2022.03.13 ~ 2022.03.31 </i> : Personal Project - <a href="https://starbucks-by-moon-gd.netlify.app/">Clone coding of Starbuck's Page </a><br>
-
-<i>2022.04.01 ~ </i> : Start studying Node-js ( Very Interesting :> )
-
-<i>2022.04.30 ~ 2022.05.26 </i> : Outsourcing Doctor's CRS Dashboard (HTML/CSS, JS, Java, Spring)
-
-<i>2022.05.09 ~ 2022.07.02 </i> : Nexon MOD Executive - Maplestory Developer <br>
---> study & TIL : url : https://www.notion.so/NEXON-MOD-STUDY-LIST-1dbf33ebb61444ae8b8a2f113ebbf5ff <br>
---> selected as Best TIL in NEXON X LikeLion
-
-<i>2022.07.04 ~ 2022.07.16 </i> : Samsung SDS algorithm special lecture completion (C)
-
-<i>2022.07.04 ~ 2022.09.03 </i> : Nexon MOD Game Creator - position : Project Manger & Developer (Luascript) <br>
-url : https://www.youtube.com/watch?v=OSw5JecRhhw <br>
-<img src="https://user-images.githubusercontent.com/74173976/186326057-a978259f-4698-4c9a-acff-ca2c43265c06.png" width="320" height="180">
-
-Nexon Supporters Hackathon 최우수상 수상!! <br>
-<img src="https://user-images.githubusercontent.com/74173976/189515261-aec6d09a-39a6-4182-9985-820dae9bae20.jpg" width="360" height="480">
-
-
-
-<i>2022.07.15 ~ </i> : hobby : Solving Baek-Joon algorithm problems as a hobby (C & Python) <Br>
---> url (Bronze 5) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%205 <Br>
---> url (Bronze 4) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%204 <Br>
---> url (Bronze 3) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%203 <Br>
---> url (Bronze 2) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%202 <Br>
---> url (Bronze 1) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88%201 <Br><Br>
---> url (Silver 5) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%205 <br>
---> url (Silver 4) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%204 <br>
---> url (Silver 3) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%203 <br>
---> url (Silver 2) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%202 <br>
---> url (Silver 1) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84%201 <br><br>
---> url (Gold 5) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EA%B3%A8%EB%93%9C%205 <br>
---> url (Gold 4) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EA%B3%A8%EB%93%9C%204 <br>
---> url (Gold 3) : https://moon-gd.tistory.com/category/%EB%B0%B1%EC%A4%80/%EA%B3%A8%EB%93%9C%203 <br>
-  
-<br>
-<i>2022.07.27 ~ 2022.08.31</i> : Participate in sensor data portal web development in KNU ISSLab <Br>
-React TIL Link : https://moon-gd.tistory.com/category/Web-Dev%20FrontEnd/React <Br><Br>
-
-<i>2022.11.21 ~ </i> : Java Spring Study <Br>
-Spring TIL LINK : https://moon-gd.tistory.com/category/Web-Dev/Spring <br>
-
----------  
 
 ## Year 2021
 
