@@ -54,7 +54,7 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 |Period|Types|Content|Reference Link| ETC |
 |:-|:-|:-|:-|:-|
 | 01.01 ~ 12.31 | 대외 활동 | 멋쟁이 사자처럼 10기 대표 | <a href="https://www.instagram.com/likelion_knu">Instagram Link </a> | ① 운영진 사이드 프로젝트 본선 진출 <br> ② Microsoft (너무 좋았던) 토크 콘서트.. <br> ③ NEXON MOD 운영진 Best TIL <br> ④ 전국 아이디어톤 2등, 4등 <br> ⑤ 대구 경북 연합 해커톤 1등 2팀 <br> ⑥ Nexon Supporters Hackathon 1등, 2등 <br> <h5>너무나도 감사한 우리 운영진, 아기사자들... 모두 모두 흥해라 😁😁</h5> |
-| 01.03 ~ 02.28 | Team Study | 멋쟁이 사자처럼 10기 운영진 스터디 | <a href="https://github.com/Moon-GD/Likelion10th-executive">GitHub</a> |  |
+| 01.03 ~ 02.28 | Team Study | 멋쟁이 사자처럼 10기 운영진 스터디 | <a href="https://github.com/Moon-GD/Likelion10th-executive">GitHub Link</a> |  |
 | 01.07 ~ 02.17 | Team Project | 멋쟁이 사자처럼 10기 운영진 아이디어톤 & 해커톤 | <a href="https://likelion-knu.netlify.app">Product Link</a> | 아이디어톤 전국 9등 수상 |
 | 02.26 ~ 02.28 | Personal Project |  동생 이력서 클론 코딩 | <a href="https://i-am-msb-not-usb.netlify.app/">Product Link</a> <br> <a href="https://github.com/Moon-GD/sister-resume">GitHub Link</a> | 3일 내로 완성해야 했던 프로젝트 |
 | 03.13 ~ 03.31 | Personal Project | 스타벅스 메인화면 클론 코딩 | <a href="https://starbucks-by-moon-gd.netlify.app/">Product Link</a> |  |
