@@ -24,10 +24,13 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 
 ## 🔨 Teck Stack 🔨
 
-Language : <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3974A5?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-A8B9CC?style=flat&logo=openjdk&logoColor=white"/> <br>
-Front-End : <img src="https://img.shields.io/badge/html5-e44d26?style=flat&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS-0d73b7?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-f7df1e?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0562a6?style=flat&logo=jquery&logoColor=white"/>  <img src="https://img.shields.io/badge/react-5ed3f3?style=flat&logo=react&logoColor=white"/>  <img src="https://img.shields.io/badge/Bootstrap-7010ef?style=flat&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/> <br>
-Back-End : <img src="https://img.shields.io/badge/Spring-5cb230?style=flat&logo=spring&logoColor=white"/>  <img src="https://img.shields.io/badge/django-0c4931?style=flat&logo=django&logoColor=white"/> <br>
-ETC. : <img src="https://img.shields.io/badge/Lua-00007c?style=flat&logo=lua&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-005e86?style=flat&logo=mysql&logoColor=white"/> <br>
+|Types|Techs|
+|:-|:-|
+| Lanauage | <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3974A5?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-A8B9CC?style=flat&logo=openjdk&logoColor=white"/> |
+| FrontEnd | <img src="https://img.shields.io/badge/html5-e44d26?style=flat&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS-0d73b7?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-f7df1e?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0562a6?style=flat&logo=jquery&logoColor=white"/>  <img src="https://img.shields.io/badge/react-5ed3f3?style=flat&logo=react&logoColor=white"/>  <img src="https://img.shields.io/badge/Bootstrap-7010ef?style=flat&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/> |
+| BackEnd | <img src="https://img.shields.io/badge/Spring-5cb230?style=flat&logo=spring&logoColor=white"/>  <img src="https://img.shields.io/badge/django-0c4931?style=flat&logo=django&logoColor=white"/> |
+| ETC. | <img src="https://img.shields.io/badge/Lua-00007c?style=flat&logo=lua&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-005e86?style=flat&logo=mysql&logoColor=white"/> |
+ 
 
 <br>
 
