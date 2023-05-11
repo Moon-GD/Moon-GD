@@ -45,7 +45,7 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 |:-|:-|:-|:-|:-|
 | 01.02 ~ 02.24 | 대외활동 | Hyundai Softer Bootcamp  | <a href="https://github.com/Moon-GD/fe-console-todo">FE-Console-Todo GitHub Link</a><br> <a href="https://github.com/Moon-GD/fe-web-todo-Moon">FE WEB Todo GitHub Link</a><br> <a href="https://github.com/softeerbootcamp/Team6-Oil-Pocket">Oil Pocket GitHub Link</a> |  |
 | 03.01 ~ 04.07 | Team Project | Mini CS Test Service | <a href="https://github.com/zangsu/cs-test-service#cs-test-service">GitHub Link</a> |  |
-| 04.08 ~ | Team Project | Tumblbug 클론 코딩 프로젝트 | <a href="https://github.com/Start-as-Web-Developers/tumblbug-clone-coding/wiki">GitHub Wiki</a> |  |
+| 04.08 ~ | Team Project | Tumblbug 클론 코딩 프로젝트 | <a href="https://github.com/Start-as-Web-Developers/tumblbug-clone-coding/wiki">GitHub Wiki Link</a> |  |
   
 <br>
 <br>
