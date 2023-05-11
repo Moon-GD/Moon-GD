@@ -45,43 +45,31 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 <div markdown="1">       
 
 ## Year 2023
-<i>2023.01 ~ </i> : Hyundai Softer Bootcamp 
+<i>2023.01 ~ 2023.02</i> : Hyundai Softer Bootcamp 
   <ul>
-    <li>1주차 : <a href="https://github.com/Moon-GD/fe-console-todo">FE-Console-Todo</a></li>
-    <li>2주차 : <a href="https://github.com/Moon-GD/fe-web-todo-Moon">FE-WEB-Todo</a></li>
+    <li>1주차 : Personal Project - <a href="https://github.com/Moon-GD/fe-console-todo">FE-Console-Todo</a></li>
+    <li>2주차 ~ 4주차 : Personal Project - <a href="https://github.com/Moon-GD/fe-web-todo-Moon">FE-WEB-Todo</a></li>
+    <li>5주차 ~ 8주차 : Team Project - <a href="https://github.com/softeerbootcamp/Team6-Oil-Pocket">유류비 절약 플랫폼</a></li>
   </ul>
-  
-  
 <br>
 
+<i>2022.03.01 ~ 2022.04.07 </i> : Team Project - <a href="https://github.com/zangsu/cs-test-service#cs-test-service"> Mini CS Test Service <br></a>
 
-## Year 2022            
-<i>2021.11 ~ 2022.12 </i> : KNU LikeLion 10th Representative <br>
-url : https://www.instagram.com/likelion_knu <br><br>
->> 운영진 사이드 프로젝트 본선 진출 <br>
->> Microsoft (너무 좋았던) 토크 콘서트.. <br>
->> NEXON MOD 운영진 Best TIL <br>
->> 전국 아이디어톤 2등, 4등 <br>
->> 대구 경북 연합 해커톤 1등 2 <br>
->> Nexon Supporters Hackathon 1등, 2등 <br>
+## Year 2022
+  
+|Period|Types|Content|Reference Link| ETC |
+|:-|:-|:-|:-|:-|
+| 2021.11 ~ 2022.12 | 대외 활동 | 멋쟁이 사자처럼 10기 대표 | <a href="https://www.instagram.com/likelion_knu">Instagram Link </a> | ① 운영진 사이드 프로젝트 본선 진출 <br> ② Microsoft (너무 좋았던) 토크 콘서트.. <br> ③ NEXON MOD 운영진 Best TIL <br> ④ 전국 아이디어톤 2등, 4등 <br> ⑤ 대구 경북 연합 해커톤 1등 2팀 <br> ⑥ Nexon Supporters Hackathon 1등, 2등 <br> <h5>너무나도 감사한 우리 운영진, 아기사자들... 모두 모두 흥해라 😁😁</h5> |
+| 2022.01.03 ~ 2022.02.28 | Team Study | 멋쟁이 사자처럼 10기 운영진 스터디 | <a href="https://github.com/Moon-GD/Likelion10th-executive">GitHub</a> |  |
+| 2022.01.07 ~ 2022.02.17 | Team Project | 멋쟁이 사자처럼 10기 운영진 아이디어톤 & 해커톤 | <a href="https://likelion-knu.netlify.app">Product Link</a> | 아이디어톤 전국 9등 수상 |
+| 2022.02.26 ~ 2022.02.28 | Personal Project |  동생 이력서 클론 코딩 | <a href="https://i-am-msb-not-usb.netlify.app/">Product Link</a> <br> <a href="https://github.com/Moon-GD/sister-resume">GitHub Link</a> | 3일 내로 완성해야 했던 프로젝트 |
+|  |  |  |  |  |
 
-너무나도 감사한 우리 운영진, 아기사자들... 모두 모두 흥해라 😁😁 <br>
+<i> </i> : Personal Project - <a href="https://i-am-msb-not-usb.netlify.app/">Clone coding of Sister's Resume </a><br>
 
-<i>2022.01.03 ~ 2022.02.28 </i> : executive study in 10th Likelion <br>
-url : https://github.com/Moon-GD/Likelion10th-executive
+<i>2022.03.13 ~ 2022.03.31 </i> : Personal Project - <a href="https://starbucks-by-moon-gd.netlify.app/">Clone coding of Starbuck's Page </a><br>
 
-<i>2022.01.07 ~ 2022.01.21 </i> : Ideaton in Likelion 10th executive -> Selected as the best 9 !!
-
---> Create Website by February 17th
-url : https://likelion-knu.netlify.app/
-
-<i>2022.02.26 ~ 2022.02.28 </i> : Clone coding of Sister's Resume <br>
-url : https://i-am-msb-not-usb.netlify.app/
-
-<i>2022.03.13 ~ 2022.03.31 </i> : Clone coding of Starbuck's Page <br>
-url : https://starbucks-by-moon-gd.netlify.app/
-
-<i>2022.04.01 ~ </i> : Start studying Node-js( Very Interesting :> )
+<i>2022.04.01 ~ </i> : Start studying Node-js ( Very Interesting :> )
 
 <i>2022.04.30 ~ 2022.05.26 </i> : Outsourcing Doctor's CRS Dashboard (HTML/CSS, JS, Java, Spring)
 
