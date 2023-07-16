@@ -49,7 +49,7 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 | 06.26 ~ | Personal Study | Modern Javascript Deep Dive 공부 | <a href="https://github.com/Moon-GD/modern-js-Deep-Dive-self-taught">GitHub TIL</a> | 입사 전 js 기본기 팍팍💪💪<br>정말 많은 성장이 느껴져서 흐뭇😊 |
 | 06.29 ~ | Personal Study | MySQL 복습 | <a href="https://github.com/Moon-GD/mysql-self-taught#mysql-기본기부터">GitHub TIL</a> | 집에 굴러다니던 MySQL 기본서가 발견된 김에..😙 |
 | MySQL 복습이 끝나는 시점부터!! | Personal Study | Deep Learning |  | 평소에도 느끼고 있었지만 <br> 우아한 테크 세미나를 기점으로 AI 공부의 필요성 절감🧐🧐<br><img width="605" alt="우아한 테크 세미나 표지" src="https://github.com/Moon-GD/Moon-GD/assets/74173976/3099a55c-7998-48c8-a05c-937a98207f3c"> |
-| 07 ~ | Job | FrontEnd Developer |  | 현대자동차 입사 😁 매일 공부하고 배우며 열일하겠습니다 🔥🔥🔥<br>신뢰성, 안정감을 줄 수 있는 구성원으로 성장하기 |
+| 07 ~ | Job | FrontEnd Developer |  | 현대자동차 입사 😁 매일 공부하고 배우며 열일하겠습니다 🔥🔥🔥<br>신뢰감, 안정감있는 구성원으로 성장하기 |
   
 <br>
 
