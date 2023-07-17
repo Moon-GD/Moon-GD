@@ -47,8 +47,8 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 | 03.01 ~ 04.07 | Team Project | Mini CS Test Service | <a href="https://github.com/zangsu/cs-test-service#cs-test-service">GitHub</a> |  |
 | 04.08 ~ 06.30 | Team Project | Tumblbug 클론 코딩 프로젝트 | <a href="https://github.com/Start-as-Web-Developers/tumblbug-clone-coding/wiki">GitHub Wiki</a> |  |
 | 06.26 ~ | Personal Study | Modern Javascript Deep Dive 공부 | <a href="https://github.com/Moon-GD/modern-js-Deep-Dive-self-taught">GitHub TIL</a> | 입사 전 js 기본기 팍팍💪💪<br>정말 많은 성장이 느껴져서 흐뭇😊 |
-| 06.29 ~ | Personal Study | MySQL 복습 | <a href="https://github.com/Moon-GD/mysql-self-taught#mysql-기본기부터">GitHub TIL</a> | 집에 굴러다니던 MySQL 기본서가 발견된 김에..😙 |
-| MySQL 복습이 끝나는 시점부터!! | Personal Study | Deep Learning |  | 평소에도 느끼고 있었지만 <br> 우아한 테크 세미나를 기점으로 AI 공부의 필요성 절감🧐🧐<br><img width="605" alt="우아한 테크 세미나 표지" src="https://github.com/Moon-GD/Moon-GD/assets/74173976/3099a55c-7998-48c8-a05c-937a98207f3c"> |
+| 06.29 ~ 07.17 | Personal Study | MySQL 복습 | <a href="https://github.com/Moon-GD/mysql-self-taught#mysql-기본기부터">GitHub TIL</a> | 집에 굴러다니던 MySQL 기본서가 발견된 김에..😙 |
+| 07.17 ~ | Personal Study | Deep Learning |  | 평소에도 느끼고 있었지만 <br> 우아한 테크 세미나를 기점으로 AI 공부의 필요성 절감🧐🧐<br><img width="605" alt="우아한 테크 세미나 표지" src="https://github.com/Moon-GD/Moon-GD/assets/74173976/3099a55c-7998-48c8-a05c-937a98207f3c"> |
 | 07 ~ | Job | FrontEnd Developer |  | 현대자동차 입사 😁 매일 공부하고 배우며 열일하겠습니다 🔥🔥🔥<br>신뢰감, 안정감있는 구성원으로 성장하기 |
   
 <br>
@@ -103,6 +103,6 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 
 ---------
 
-Update : 2022.07.16
+Update : 2022.07.17 (월)
   
 </div>
