@@ -52,7 +52,7 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 | 06.29 ~ 07.17 | Personal Study | MySQL 복습 | <a href="https://github.com/Moon-GD/mysql-self-taught#mysql-기본기부터">GitHub TIL</a> | 집에 굴러다니던 MySQL 기본서가 발견된 김에..😙 |
 | 07.17 ~ | Personal Study | Deep Learning | <a href="https://github.com/Moon-GD/deep-learning-basics-self-taught#deep-learning-기초-독학">GitHub TIL</a> | 평소에도 느끼고 있었지만 <br> 우아한 테크 세미나를 기점으로 AI 공부의 필요성 절감🧐🧐<br><img width="605" alt="우아한 테크 세미나 표지" src="https://github.com/Moon-GD/Moon-GD/assets/74173976/3099a55c-7998-48c8-a05c-937a98207f3c"> |
 | 07 ~ | Job | FrontEnd Developer |  | 현대자동차 입사 😁 매일 공부하고 배우며 열일하겠습니다 🔥🔥🔥<br>신뢰감, 안정감있는 구성원으로 성장하기 |
-| 08.17 ~ | Personal Study | FrontEnd Review | <a href="https://github.com/Moon-GD/FrontEnd-Review">Github</a> | 개발, 학습, 코드 리뷰 과정 中 부족했던 내용 정리하기<br>→ 빨리 해야 BE도 공부할 수 있어~ |
+| 08.17 ~ | Personal Study | FrontEnd Review | <a href="https://github.com/Moon-GD/FrontEnd-Review">GitHub TIL</a> | 개발, 학습, 코드 리뷰 과정 中 부족했던 내용 정리하기<br>→ 빨리 해야 BE도 공부할 수 있어~ |
   
 <br>
 
