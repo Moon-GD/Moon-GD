@@ -7,11 +7,9 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 <br>
 
 ## ❗ 매일 실천 루틴 ❗
-  #### ① 다양한 언어 문화를 이해할 수 있어야 해! 개발자 문서 15분 리딩 or ChatGPT와 이론 공부 (요즘은 <a href="https://kofearticle.substack.com/">FE 해외 기술 블로그</a> 읽는 중 😁)
-#### ~~② C, Python 2개 언어로 <a href="https://www.acmicpc.net/">백준</a> 문제 풀이 or JS로 <a href="https://app.codility.com/programmers/">codility</a> 문제 풀이~~
-#### ③ 나도 저 사람처럼 될꺼야! <a href="https://www.youtube.com/@turningpointkorea">글로벌하게 성공한 사람들의 영상</a> 1개 시청
-#### ④ 개발자도 책은 읽어야지! 독서 30분 이상
-#### ⑤ 뇌 근육 이완도 중요해! 매일 줄넘기 3000개 + 푸쉬업 50개 이상, 주 1~2회 2시간 축구/풋살
+#### ⓵ 나도 저 사람처럼 될꺼야! <a href="https://www.youtube.com/@turningpointkorea">글로벌하게 성공한 사람들의 영상</a> 1개 시청
+#### ⓶ 개발자도 책은 읽어야지! 독서 30분 이상
+#### ⓷ 뇌 근육 이완도 중요해! 매일 유산소 50분, 웨이트 30분 이상, 주 1~2회 2시간 축구/풋살
 
 <br>
   
@@ -36,11 +34,12 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 | node etc packages | <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white"/> <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=Zod&logoColor=white"/> <img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=flat&logo=ReactHookForm&logoColor=white"/> |
 | Database | <img src="https://img.shields.io/badge/MySQL-005e86?style=flat&logo=mysql&logoColor=white"/> |
 
-<br>
+<br />
 
 ## 🧐 Experience 🧐
 
 ### 4️⃣ Year 2023
+
 |Period|Types|Content|Reference Link| ETC |
 |:-|:-|:-|:-|:-|
 | 01.02 ~ 02.24 | 대외활동 | Hyundai Softer Bootcamp  | <a href="https://github.com/Moon-GD/fe-console-todo">1주차 : FE-Console-Todo GitHub</a><br> <a href="https://github.com/Moon-GD/fe-web-todo-Moon">2주차 ~ 4주차 : FE WEB Todo GitHub</a><br> <a href="https://github.com/softeerbootcamp/Team6-Oil-Pocket">5주차 ~ 8주차 : Oil Pocket GitHub</a> |  |
@@ -48,10 +47,13 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 | 04.08 ~ 06.30 | Team Project | Tumblbug 클론 코딩 프로젝트 | <a href="https://github.com/Start-as-Web-Developers/tumblbug-clone-coding/wiki">GitHub Wiki</a> |  |
 | 06.26 ~ | Personal Study | Modern Javascript Deep Dive 공부 | <a href="https://github.com/Moon-GD/modern-js-Deep-Dive-self-taught">GitHub TIL</a> | 입사 전 js 기본기 팍팍💪💪<br>정말 많은 성장이 느껴져서 흐뭇😊 |
 | 06.29 ~ 07.17 | Personal Study | MySQL 복습 | <a href="https://github.com/Moon-GD/mysql-self-taught#mysql-기본기부터">GitHub TIL</a> | 집에 굴러다니던 MySQL 기본서가 발견된 김에..😙 |
-| 07.17 ~ | Personal Study | Deep Learning | <a href="https://github.com/Moon-GD/deep-learning-basics-self-taught#deep-learning-기초-독학">GitHub TIL</a> | 평소에도 느끼고 있었지만 <br> 우아한 테크 세미나를 기점으로 AI 공부의 필요성 절감🧐🧐<br><img width="605" alt="우아한 테크 세미나 표지" src="https://github.com/Moon-GD/Moon-GD/assets/74173976/3099a55c-7998-48c8-a05c-937a98207f3c"> |
+| 07.17 ~ | Conference | 우아한 테크 세미나 | <img width="605" alt="우아한 테크 세미나 7월 표지" src="https://github.com/Moon-GD/Moon-GD/assets/74173976/3099a55c-7998-48c8-a05c-937a98207f3c"> | 평소에도 느끼고 있었지만 <br> 우아한 테크 세미나를 기점으로 AI 공부의 필요성 절감🧐🧐 |
 | 07 ~ | Job | FrontEnd Developer |  | 현대자동차 입사 😁 매일 공부하고 배우며 열일하겠습니다 🔥🔥🔥<br>신뢰감, 안정감있는 구성원으로 성장하기 |
 | 08.17 ~ | Personal Study | FrontEnd Review | <a href="https://github.com/Moon-GD/FrontEnd-Review">GitHub TIL</a> | 개발, 학습, 코드 리뷰 과정 中 부족했던 내용 정리하기<br>→ 빨리 해야 BE도 공부할 수 있어~ |
-| 09.10 ~ | Personal Study | hello nestjs | <a href="https://github.com/Moon-GD/hello-nests#hello-nestjs">GitHub TIL</a> | 퇴근하면 머리가 안 돌아가니까..<br /> 아예 관계없는 BE 공부하면서 머리 풀어주려고 🤯 |
+| 10.21 | Conference | FEConf 2023 | <img width="200" alt="FEConf 2023 참여 인증샷" src="https://github.com/Moon-GD/Moon-GD/assets/74173976/04b3b572-d554-4c67-868a-70535a354a1c"> <br/> <a href="https://2023.feconf.kr/">FE Conf 2023 관련 링크</a> | 학생이 아닌 실무자로 참여하게 되는데서 오는 설렘 🤗 <br /> 네이버, 토스, 당근 마켓 등 여러 사람들을 보면서 <br /> FE에서 내 수준이 어디인지 알게 되었다... 😭 |
+| 11.13 | Conference | 제 3회 HMG 개발자 컨퍼런스 | <img width="200" alt="3회 HMG 참여 인증샷" src="https://github.com/Moon-GD/Moon-GD/assets/74173976/d7e6017c-9751-478e-90d2-7a243cb718bc"> <br/> <a href="https://devcon.hyundaimotorgroup.com/">HMG 개발자 컨퍼런스 관련 링크</a> | 다양한 분야에서 각자의 깊이를 파고 있는 사람들이 있구나.. 🫣 <br /> 여러 분야에서 오는 신선한 자극들이 좋았다 |
+| 12.20 | Conference | 우아한 테크 세미나 | <img width="605" alt="우아한 테크 세미나 12월 표지" src="https://github.com/Moon-GD/Moon-GD/assets/74173976/0df231e2-3547-4f74-bdbd-f5b5d50b71e4"> <br/> <a href="https://www.youtube.com/watch?v=WCwPSVu8mH8&list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&index=1&t=4001s">온라인 영상</a> | 지하철 오가며 온라인으로 함께! |
+| 12.28 ~ | Personal Study | hello Java Spring | Github (링크 추후 연결) | BE와 소통할 때 더 잘 이해하고 싶어서 처음부터 다시 시작하게 되었다 |
   
 <br>
 
@@ -105,6 +107,6 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 
 ---------
 
-Update : 2022.07.23 (일)
+Update : 2023.12.28 (목)
   
 </div>
