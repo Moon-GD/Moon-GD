@@ -53,7 +53,7 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 | 10.21 | Conference | FEConf 2023 | <img width="200" alt="FEConf 2023 참여 인증샷" src="https://github.com/Moon-GD/Moon-GD/assets/74173976/04b3b572-d554-4c67-868a-70535a354a1c"> <br/> <a href="https://2023.feconf.kr/">FE Conf 2023 관련 링크</a> | 학생이 아닌 실무자로 참여하게 되는데서 오는 설렘 🤗 <br /> 네이버, 토스, 당근 마켓 등 여러 사람들을 보면서 <br /> FE에서 내 수준이 어디인지 알게 되었다... 😭 |
 | 11.13 | Conference | 제 3회 HMG 개발자 컨퍼런스 | <img width="200" alt="3회 HMG 참여 인증샷" src="https://github.com/Moon-GD/Moon-GD/assets/74173976/d7e6017c-9751-478e-90d2-7a243cb718bc"> <br/> <a href="https://devcon.hyundaimotorgroup.com/">HMG 개발자 컨퍼런스 관련 링크</a> | 다양한 분야에서 각자의 깊이를 파고 있는 사람들이 있구나.. 🫣 <br /> 여러 분야에서 오는 신선한 자극들이 좋았다 |
 | 12.20 | Conference | 우아한 테크 세미나 | <img width="605" alt="우아한 테크 세미나 12월 표지" src="https://github.com/Moon-GD/Moon-GD/assets/74173976/0df231e2-3547-4f74-bdbd-f5b5d50b71e4"> <br/> <a href="https://www.youtube.com/watch?v=WCwPSVu8mH8&list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&index=1&t=4001s">온라인 영상</a> | 지하철 오가며 온라인으로 함께! |
-| 12.28 ~ | Personal Study | hello Java Spring | Github (링크 추후 연결) | BE와 소통할 때 더 잘 이해하고 싶어서 처음부터 다시 시작하게 되었다 |
+| 12.28 ~ | Personal Study | hello Java Spring | <a href="https://github.com/Moon-GD/java-spring">Github</a> | BE와 소통할 때 더 잘 이해하고 싶어서 처음부터 다시 시작하게 되었다 |
   
 <br>
 
@@ -107,6 +107,6 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 
 ---------
 
-Update : 2023.12.28 (목)
+Update : 2023.12.31 (Sun)
   
 </div>
