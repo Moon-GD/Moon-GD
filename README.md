@@ -22,12 +22,15 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 
 ## 🔨 Teck Stack 🔨
 
+<!-- https://simpleicons.org -->
+
 |Types|Techs|
 |:-|:-|
 | Lanauage | <img src="https://img.shields.io/badge/Javascript-f7df1e?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3974A5?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-A8B9CC?style=flat&logo=openjdk&logoColor=white"/> |
 | MarkUp | <img src="https://img.shields.io/badge/html5-e44d26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-0d73b7?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7010ef?style=flat&logo=bootstrap&logoColor=white"/> |
 | RunTime | <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> |
-| FE FrameWork / Library | <img src="https://img.shields.io/badge/React-5ed3f3?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/NextJS-000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white"/>  |
+| FE FrameWork / Library | <img src="https://img.shields.io/badge/React-5ed3f3?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/NextJS-000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white"/> <img src="https://img.shields.io/badge/StoryBook-FF4785?style=flat&logo=Storybook&logoColor=white"/> |
+| Be FrameWork / Library | <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> |
 | Code Formatter & Linter | <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=ESLint&logoColor=white"/> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white"/> |
 | Test Code | <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/> |
 | Bundler | <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white"/> |
@@ -37,6 +40,12 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 <br />
 
 ## 🧐 Experience 🧐
+
+### 5️⃣ Year 2024
+
+|Period|Types|Content|Reference Link| ETC |
+|:-|:-|:-|:-|:-|
+| 03.01 ~ | Personal Study | hello Java Spring | <a href="https://github.com/Moon-GD/hello-java-spring">Github TIL</a> | - 2024년 2월까지는 이런 저런 시도를 해보다가... <br /> - 2024년 3월부터 <a href="https://m.yes24.com/Goods/Detail/96051853">Spring Web Project 책</a> 잡고 제대로 독학 시작! |
 
 ### 4️⃣ Year 2023
 
@@ -107,6 +116,6 @@ FE, BE를 모두 아우를 수 있는 능력있는 웹 개발자가 되고자 �
 
 ---------
 
-Update : 2024.02.21 (Wed)
+Update : 2024.03.28 (Thr)
   
 </div>
